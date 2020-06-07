@@ -1,2 +1,2 @@
 system.out.print("1");
-ss
+system.out.print("2");
